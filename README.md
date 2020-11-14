@@ -1,4 +1,3 @@
-# python
 <html>
   <h1>Python Lessons</h1>
   <h3>Lesson 1:</h3>
